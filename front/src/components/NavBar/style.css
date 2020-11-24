@@ -1,0 +1,10 @@
+.logout {
+  position: absolute;
+  right: 25px;
+}
+.username {
+  position: absolute;
+  right: 120px;
+  top: 16px;
+  color: white;
+}

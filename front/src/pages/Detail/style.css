@@ -1,0 +1,15 @@
+.detail-title {
+  padding: 20px;
+  border-bottom-width: 3px;
+  border-bottom-style: solid;
+  border-bottom-color: #007bff4d;
+  text-transform: capitalize;
+}
+
+.detail-content {
+  padding: 20px;
+}
+
+.go-back-button {
+  float: right;
+}
