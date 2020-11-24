@@ -1,5 +1,5 @@
 # react-test
 A simple react test
 
-To Launch Backend: nodemon server.js
-To Launch Frontend: npm start
+To Launch Backend run: "nodemon server.js".
+To Launch Frontend: "npm start".
